@@ -1,6 +1,11 @@
 # TRAINED MODEL FILES
 Uploaded the files of the trained model on the COCO 2014 Dataset in the folder /model with the woman.jpg style image.
-You can have a glimpse of the results in the /MZ_test_output folder.
+You can have a glimpse of the results here.
+
+<p align='center'>
+  <img src='MZ_test_output/IMG_20211101_105914.jpg' width="350px">
+  <img src='MZ_test_output/model_IMG_20211101_105914.jpeg' width="350px">
+</p>
 
 # CHANGES FOR WINDOWS
 If you want to retrain the model on another style image, change all the instances of
