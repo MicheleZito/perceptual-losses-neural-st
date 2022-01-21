@@ -18,8 +18,10 @@ with
 ```python
 os.path.normpath(os.path.join(...))
 ```
+I also recommend of putting these folders in a not very long path because you can have troubles on resovling paths when training.
 
 
+# ( Forked README)
 # Perceptual Losses Neural Style Transfer
 Implementation of the paper:
 
